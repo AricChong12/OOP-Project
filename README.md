@@ -10,7 +10,7 @@ The Hotel Management System, HMS applies the MVC architecture by separating data
 ![ERD](https://github.com/AricChong12/OOP-Project/blob/main/Hotel%20Management%20System%20ERD.png)
 
 
-## ⚙️ Architectural Diagram
+## ⚙️ Architectural Diagram - Component Diagram
 
 
 https://zoomhub.net/LKrky
