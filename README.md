@@ -11,5 +11,5 @@ The Hotel Management System, HMS applies the MVC architecture by separating data
 
 
 ## ⚙️ UML Diagram
-<script src="https://zoomhub.net/LKrky.js?width=535px&height=auto&border=none"></script>
+
 
