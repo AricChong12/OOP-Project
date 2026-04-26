@@ -16,7 +16,7 @@ The Hotel Management System, HMS applies the MVC architecture by separating data
 https://zoomhub.net/LKrky
 
 
-## Application Sample Run
+## ✨ Application Sample Run
 ![S1](https://github.com/AricChong12/OOP-Project/blob/main/S1.png)
 ![S2](https://github.com/AricChong12/OOP-Project/blob/main/S2.png)
 ![S3](https://github.com/AricChong12/OOP-Project/blob/main/S3.png)
